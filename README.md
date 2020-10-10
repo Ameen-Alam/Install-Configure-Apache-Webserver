@@ -127,3 +127,6 @@ To load the new site, we restart Apache by typing:
 
 
 
+https://ubuntu.com/tutorials/install-and-configure-apache#5-activating-virtualhost-file
+
+https://www.linode.com/community/questions/311/how-do-i-enabledisable-a-website-hosted-with-apache
